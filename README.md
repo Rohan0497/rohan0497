@@ -49,8 +49,9 @@ I'm Rohan Thorat. Welcome to my GitHub! I'm a Masters Graduate in AI and I’m p
 ### ☕ Let's Collaborate
 
 I'm always up for tackling exciting problems, experimenting with bleeding-edge tech, or discussing cool ideas. Let’s connect!
-### 📊 GitHub Stats
 <!--
+### 📊 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohan0497&show_icons=true&theme=default&hide=contribs&count_private=true)
 -->
 
