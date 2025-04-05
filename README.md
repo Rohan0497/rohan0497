@@ -50,6 +50,11 @@ I'm Rohan Thorat. Welcome to my GitHub! I'm a Masters Graduate in AI and I’m p
 ### ☕ Let's Collaborate
 
 I'm always up for tackling exciting problems, experimenting with bleeding-edge tech, or discussing cool ideas. Let’s connect!
+
+
+![GitHub followers](https://img.shields.io/github/followers/Rohan0497?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Rohan0497?style=social)
+
 <!--
 ### 📊 GitHub Stats
 
