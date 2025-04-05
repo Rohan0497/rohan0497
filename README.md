@@ -3,7 +3,13 @@
 <!--
 ### 🤖 Robotics | 📊 Data Science | 👁️‍🗨️ Computer Vision | 🧠 Generative AI
 -->
-I'm Rohan Thorat. Welcome to my GitHub! I'm a Masters Graduate in AI and I’m passionate about solving real-world problems using a fusion of intelligent systems, machine learning, and robotics. Whether it's teaching machines to see, think, or move I love building things that push boundaries.
+I'm Rohan Thorat. Welcome to my GitHub! I'm a Masters Graduate in AI.
+
+### 👋 About Me
+- 🧠 Former Electronics Engineer, now building intelligent machines
+- 🛠️ Currently exploring edge AI, real-time robotics, and GenAI
+- ✨ Passionate about solving real-world problems with smart systems
+- 💬 Always open to collaborate on impactful ML/AI projects
 
 ---
 
@@ -52,12 +58,12 @@ I'm Rohan Thorat. Welcome to my GitHub! I'm a Masters Graduate in AI and I’m p
 I'm always up for tackling exciting problems, experimenting with bleeding-edge tech, or discussing cool ideas. Let’s connect!
 
 
-![GitHub followers](https://img.shields.io/github/followers/Rohan0497?style=social)
-![GitHub stars](https://img.shields.io/github/stars/Rohan0497?style=social)
+
 
 <!--
 ### 📊 GitHub Stats
-
+![GitHub followers](https://img.shields.io/github/followers/Rohan0497?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Rohan0497?style=social)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohan0497&show_icons=true&theme=default&hide=contribs&count_private=true)
 -->
 
