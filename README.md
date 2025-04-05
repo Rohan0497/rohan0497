@@ -1,9 +1,9 @@
 
-# 👋 Hi there, I'm Rohan Thorat
-
+# 👋 Hi there,
+<!--
 ### 🤖 Robotics | 📊 Data Science | 👁️‍🗨️ Computer Vision | 🧠 Generative AI
-
-Welcome to my GitHub! I’m passionate about solving real-world problems using a fusion of intelligent systems, machine learning, and robotics. Whether it's teaching machines to see, think, or move—I love building things that push boundaries.
+-->
+I'm Rohan Thorat. Welcome to my GitHub! I'm a Masters Graduate in AI and I’m passionate about solving real-world problems using a fusion of intelligent systems, machine learning, and robotics. Whether it's teaching machines to see, think, or move I love building things that push boundaries.
 
 ---
 
@@ -50,7 +50,7 @@ Welcome to my GitHub! I’m passionate about solving real-world problems using a
 
 I'm always up for tackling exciting problems, experimenting with bleeding-edge tech, or discussing cool ideas. Let’s connect!
 ### 📊 GitHub Stats
-
+<!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohan0497&show_icons=true&theme=default&hide=contribs&count_private=true)
 -->
 
