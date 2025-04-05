@@ -42,7 +42,8 @@ I'm Rohan Thorat. Welcome to my GitHub! I'm a Masters Graduate in AI and I’m p
 
 ### 📫 Connect with Me
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/rohan-thorat-/
+- 🔗 LinkedIn: 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-View_Profile-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/rohan-thorat-/))
 
 ---
 
