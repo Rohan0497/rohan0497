@@ -35,8 +35,7 @@ Welcome to my GitHub! I’m passionate about solving real-world problems using a
 
 | Project | Description | Launch |
 |--------|-------------|--------|
-| 💳 **Credit Risk Model** | Predicts default risk using XGBoost, with SHAP visualizations and model insights | [![Launch](https://img.shields.io/badge/Open-Dashboard-green?style=flat&logo=streamlit)]
-(https://mlprojcreditriskmodel.streamlit.app/) |
+| 💳 **Credit Risk Model** | Predicts default risk using XGBoost, with SHAP visualizations and model insights | [![Launch](https://img.shields.io/badge/Open-Dashboard-green?style=flat&logo=streamlit)](https://mlprojcreditriskmodel.streamlit.app) |  
 | 🏥 **Healthcare Premium Predictor** | Predicts insurance premium using demographics & health data with an intuitive UI | [![Launch](https://img.shields.io/badge/Open-Dashboard-green?style=flat&logo=streamlit)](https://mlhealthcare-premium-prediction.streamlit.app) |
 
 ---
