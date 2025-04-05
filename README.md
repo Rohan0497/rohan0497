@@ -1,4 +1,48 @@
-## Hi there 👋
+
+# 👋 Hi there, I'm Rohan Thorat
+
+### 🤖 Robotics | 📊 Data Science | 👁️‍🗨️ Computer Vision | 🧠 Generative AI
+
+Welcome to my GitHub! I’m passionate about solving real-world problems using a fusion of intelligent systems, machine learning, and robotics. Whether it's teaching machines to see, think, or move—I love building things that push boundaries.
+
+---
+
+### 🛠️ What I Do
+
+- 📈 **Data Science & ML**  
+  Predictive modeling,  time-series analysis, and model deployment at scale.
+
+- 🤖 **Robotics**  
+  Real-time control systems, ROS-based automation, sensor fusion, and embedded system integration.
+
+- 👁️ **Computer Vision**  
+  Object detection (YOLO, OpenCV), pose estimation, and video analysis.
+
+- 🧠 **Generative AI**  
+  Language models (LLMs), and AI creativity applications using OpenAI, HuggingFace & more.
+
+---
+
+### 🧰 Toolbox
+
+- **Languages:** Python,  MATLAB, SQL  
+- **Frameworks/Libraries:** PyTorch,  ROS, OpenCV, Scikit-learn, HuggingFace, FastAPI  
+- **Tools:** Docker, Git, Jupyter, Streamlit, Linux, Arduino 
+
+
+---
+
+
+### 📫 Connect with Me
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/rohan-thorat-/
+
+---
+
+### ☕ Let's Collaborate
+
+I'm always up for tackling exciting problems, experimenting with bleeding-edge tech, or discussing cool ideas. Let’s connect!
+
 
 <!--
 **Rohan0497/rohan0497** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
