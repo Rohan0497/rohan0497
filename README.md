@@ -49,7 +49,10 @@ Welcome to my GitHub! I’m passionate about solving real-world problems using a
 ### ☕ Let's Collaborate
 
 I'm always up for tackling exciting problems, experimenting with bleeding-edge tech, or discussing cool ideas. Let’s connect!
+### 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohan0497&show_icons=true&theme=default&hide=contribs&count_private=true)
+-->
 
 <!--
 **Rohan0497/rohan0497** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
