@@ -3,7 +3,7 @@
 <!--
 ### 🤖 Robotics | 📊 Data Science | 👁️‍🗨️ Computer Vision | 🧠 Generative AI
 -->
-I'm Rohan Thorat. Welcome to my GitHub! I'm a Masters Graduate in AI.
+I'm Rohan Thorat. Welcome to my GitHub! I'm a Machine Learning Engineer with focus on Computer Vision, Robotics and NLP. 
 
 ### 👋 About Me
 - 🧠 Former Electronics Engineer, now building intelligent machines
