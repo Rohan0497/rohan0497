@@ -46,14 +46,14 @@ I'm Rohan Thorat. Welcome to my GitHub! I'm a Machine Learning Engineer with foc
 | 🏥 **Healthcare Premium Predictor** | Predicts insurance premium using demographics & health data with an intuitive UI | [![Launch](https://img.shields.io/badge/Open-Dashboard-green?style=flat&logo=streamlit)](https://mlhealthcare-premium-prediction.streamlit.app) |
 
 ---
--->
+
 ###  Connect with Me
 
 - 🔗 LinkedIn: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-View_Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rohan-thorat-/)
 
 ---
-
+-->
 ###  Let's Collaborate
 
 I'm always up for tackling exciting problems, experimenting with bleeding-edge tech, or discussing cool ideas. Let’s connect!
